@@ -135,5 +135,9 @@ hash -r
 pkg help
 ```
 
+- Enable Extra Keys ( https://termux.com/touch-keyboard.html ) **Volume UP+Q**
+
+Learn More about Termux Visit - https://termux.com/
+
 Bookmark this Page More Updates on the way 😊
 
