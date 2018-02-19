@@ -88,6 +88,12 @@ pkg install htop
 pkg install figlet
 ```
 
+- Install httping (pinging tool for HTTP requests)
+
+```
+pkg install httping
+```
+
 - Install Termux API (Full info about this - https://termux.com/add-on-api.html)
 
 ```
@@ -104,10 +110,10 @@ apt update && apt upgrade
 termux-setup-storage
 ```
 
-Termux Storage permission did not create symlink for all folders
+Termux Storage permission did not create symlink for all folders - ( https://github.com/termux/termux-app/issues/591 )
 
 ```
-cd storage
+cd $HOME
 ls
 ```
 
