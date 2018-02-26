@@ -39,7 +39,7 @@ pkg install git
 pkg install wget
 ```
 
-- Install python3 & python2
+- Install python3 & python2 (https://wiki.termux.com/wiki/Python)
 
 **Python2**
 
@@ -92,6 +92,12 @@ pkg install figlet
 
 ```
 pkg install httping
+```
+
+- install dnsutils (Mostly i use this tool for find the website/blog IP address)
+
+```
+pkg install dnsutils
 ```
 
 - Install Termux API (Full info about this - https://termux.com/add-on-api.html)
