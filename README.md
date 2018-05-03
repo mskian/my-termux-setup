@@ -100,6 +100,12 @@ pkg install httping
 pkg install dnsutils
 ```
 
+- Install FFmpeg (Handling video, audio, and other multimedia files and streams)
+
+```
+pkg install ffmpeg
+```
+
 - Install Termux API (Full info about this - https://termux.com/add-on-api.html)
 
 ```
