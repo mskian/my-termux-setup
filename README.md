@@ -14,11 +14,10 @@ Get it from Google Play store 💯
 
 ## My Setup & Packages
 
-- Update Termux
+- Update Termux Packages
 
 ```
-apt-get update
-apt upgrade
+pkg up
 ```
 
 - Install cURL
