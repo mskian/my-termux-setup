@@ -118,6 +118,12 @@ pkg install ffmpeg
 curl -sL https://gist.githubusercontent.com/mskian/6ea9c2b32d5f41867e7cafc88d1b26d5/raw/youtube-dl.sh | bash
 ```
 
+- Install nano Editor
+
+```
+pkg install nano
+```
+
 - Install Termux API (Full info about this - https://termux.com/add-on-api.html)
 
 ```
