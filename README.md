@@ -153,6 +153,12 @@ cd $HOME
 ls
 ```
 
+- Termux - Check if a program/Package is exists or Not (Verify your Package Installation)
+
+```
+curl -sL https://gist.githubusercontent.com/mskian/4278fed4a206f4ec440f0dd512d4540b/raw/package.sh | bash
+```
+
 - List the Installed Packages
 
 ```
