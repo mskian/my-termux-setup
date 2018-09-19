@@ -1,7 +1,8 @@
 # My Termux setup
+
 Here is My Termux Terminal Emulator Setup &amp; Packages 🔖
 
-Linux on Android 💯
+> Linux on Android 💯
 
 ## Download Termux
 
@@ -49,6 +50,12 @@ pkg Install python2
 
 ```
 pkg install python
+```
+
+- Install Nodejs
+
+```
+pkg install nodejs
 ```
 
 - Install jq (pre Format JSON result)
@@ -103,6 +110,12 @@ pkg install dnsutils
 
 ```
 pkg install ffmpeg
+```
+
+- Install youtube-dl
+
+```
+curl -sL https://gist.githubusercontent.com/mskian/6ea9c2b32d5f41867e7cafc88d1b26d5/raw/youtube-dl.sh | bash
 ```
 
 - Install Termux API (Full info about this - https://termux.com/add-on-api.html)
