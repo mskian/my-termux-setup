@@ -106,6 +106,12 @@ pkg install httping
 pkg install dnsutils
 ```
 
+- Install openssh (For Managing My Servers SSH & SFTP)
+
+```
+pkg install openssh
+```
+
 - Install FFmpeg (Handling video, audio, and other multimedia files and streams)
 
 ```
