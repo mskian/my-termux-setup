@@ -130,6 +130,21 @@ curl -sL https://gist.githubusercontent.com/mskian/6ea9c2b32d5f41867e7cafc88d1b2
 pkg install nano
 ```
 
+- Install ZSH (For Run ohmyzsh)
+
+```
+pkg install zsh
+```
+
+- Install screenfetch (System Information Generator)
+
+```
+pkg install screenfetch
+```
+
+- Customize the Termux Terminal Emulator - https://amsk.in/2Qjluqe
+
+
 - Install Termux API (Full info about this - https://termux.com/add-on-api.html)
 
 ```
