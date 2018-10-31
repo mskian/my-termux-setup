@@ -124,6 +124,18 @@ pkg install ffmpeg
 curl -sL https://gist.githubusercontent.com/mskian/6ea9c2b32d5f41867e7cafc88d1b26d5/raw/youtube-dl.sh | bash
 ```
 
+- Install PHP
+
+```
+pkg install termux
+```
+
+- Install PHP Composer
+
+```
+curl -sS https://getcomposer.org/installer | php -- --install-dir=/data/data/com.termux/files/usr/bin --filename=composer
+```
+
 - Install nano Editor
 
 ```
@@ -145,16 +157,16 @@ pkg install screenfetch
 - Customize the Termux Terminal Emulator - https://amsk.in/2Qjluqe
 
 
-- Install Termux API (Full info about this - https://termux.com/add-on-api.html)
+- Install Termux API (Full info about this - https://wiki.termux.com/wiki/Termux:API)
 
 ```
 apt install termux-api
 ```
 
-- Termux SD Card Permission ( https://termux.com/storage.html )
+- Termux SD Card Permission ( https://wiki.termux.com/wiki/Termux-setup-storage )
 
 ```
-apt update && apt upgrade
+pkg up
 ```
 
 ```
@@ -198,7 +210,7 @@ hash -r
 pkg help
 ```
 
-- Enable Extra Keys ( https://termux.com/touch-keyboard.html ) **Volume UP+Q**
+- Enable Extra Keys ( https://wiki.termux.com/wiki/Touch_Keyboard ) **Volume UP+Q**
 
 Learn More about Termux Visit - https://termux.com/
 
