@@ -127,10 +127,10 @@ curl -sL https://gist.githubusercontent.com/mskian/6ea9c2b32d5f41867e7cafc88d1b2
 - Install PHP
 
 ```
-pkg install termux
+pkg install php
 ```
 
-- Install PHP Composer
+- Install PHP Composer on Termux
 
 ```
 curl -sS https://getcomposer.org/installer | php -- --install-dir=/data/data/com.termux/files/usr/bin --filename=composer
