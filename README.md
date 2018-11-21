@@ -154,6 +154,12 @@ pkg install zsh
 pkg install screenfetch
 ```
 
+- Install w3m - Text based Web browser
+
+```
+pkg install w3m
+```
+
 - Customize the Termux Terminal Emulator - https://amsk.in/2Qjluqe
 
 
