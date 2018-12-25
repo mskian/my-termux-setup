@@ -148,7 +148,7 @@ pkg install nano
 pkg install zsh
 ```
 
-- Install HTTPie (cURL Alternative) and Install Socks for Proxy Connection [Python3 Modules]
+- Install **HTTPie** on Termux (cURL Alternative) and Install Socks for Proxy Connection [Python3 Modules]
 
 ```
 pip install --upgrade pip setuptools
