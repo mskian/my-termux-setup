@@ -181,13 +181,18 @@ pkg install screenfetch
 pkg install w3m
 ```
 
-- Customize the Termux Terminal Emulator - https://amsk.in/2Qjluqe
+- Customize the Termux Terminal Emulator - https://amsk.in/2IF0ibt
 
-
-- Install Termux API (Full info about this - https://wiki.termux.com/wiki/Termux:API)
+- Install `Termux-exec` Read More about this Package - https://wiki.termux.com/wiki/Termux-exec
 
 ```
-apt install termux-api
+pkg install termux-exec
+```
+
+- Install Termux API (Full info about this - https://wiki.termux.com/wiki/Termux:API (Don't Forget to Install Termux API APP from Playstore)
+
+```
+pkg install termux-api
 ```
 
 - Termux SD Card Permission ( https://wiki.termux.com/wiki/Termux-setup-storage )
