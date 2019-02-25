@@ -12,6 +12,7 @@ Get it from Google Play store 💯
 
 - Install Termux - https://play.google.com/store/apps/details?id=com.termux&hl=en
 - Install Termux API  - https://play.google.com/store/apps/details?id=com.termux.api&hl=en
+- Install Termux Styling - https://play.google.com/store/apps/details?id=com.termux.styling
 
 ## My Setup & Packages
 
