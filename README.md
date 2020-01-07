@@ -224,6 +224,31 @@ pkg up
 termux-setup-storage
 ```
 
+- Termux Enable Extra Key Rows
+
+```bash
+cd .termux
+```
+
+```bash
+nano termux.properties
+```
+
+> Copy and Paste the Below Key Configuration in the Termux Properties File - `CTRL + X` to save & Exit
+
+```bash
+extra-keys = [ \
+ ['ESC','|','/','HOME','UP','END','PGUP','DEL'], \
+ ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','BKSP'] \
+]
+```
+
+- Termux Fix Legacy Warning - <https://github.com/termux/termux-app/issues/1393>
+
+```bash
+termux-upgrade-repo
+```
+
 Termux Storage permission did not create symlink for all folders - ( <https://github.com/termux/termux-app/issues/591> )
 
 ```bash
