@@ -8,11 +8,15 @@ Here is My Termux Terminal Emulator Setup &amp; Packages 🔖
 
 Termux Terminal Emulator for Android
 
-Get it from Google Play store 💯
+~~Get it from Google Play store 💯~~
 
-- Install Termux - <https://play.google.com/store/apps/details?id=com.termux&hl=en>
-- Install Termux API  - <https://play.google.com/store/apps/details?id=com.termux.api&hl=en>
-- Install Termux Styling - <https://play.google.com/store/apps/details?id=com.termux.styling>
+- ~~Install Termux - <https://play.google.com/store/apps/details?id=com.termux&hl=en>~~
+- ~~Install Termux API  - <https://play.google.com/store/apps/details?id=com.termux.api&hl=en>~~
+- ~~Install Termux Styling - <https://play.google.com/store/apps/details?id=com.termux.styling>~~
+
+- Download Termux from F-Driod - <https://f-droid.org/packages/com.termux/>
+- All Termux Apps - <https://search.f-droid.org/?q=termux&lang=en>
+- Termux Support was dropped from Playstore - <https://github.com/termux/termux-app#installation>
 
 ## My Setup & Packages
 
