@@ -1,12 +1,20 @@
 # My Termux setup
 
+Termux - Terminal Emulator for Android  
+
 Here is My Termux Terminal Emulator Setup &amp; Packages 🔖
 
 > Linux on Android 💯
 
 ## Download Termux
 
-Termux Terminal Emulator for Android
+**Termux Support was dropped from Playstore - <https://github.com/termux/termux-app#installation>**
+
+- Download Termux from F-Driod - <https://f-droid.org/packages/com.termux/>
+- Termux API - <https://f-droid.org/en/packages/com.termux.api/>
+- All Termux Apps - <https://search.f-droid.org/?q=termux&lang=en>
+- Developer Wiki - <https://github.com/termux/termux-packages/wiki>
+- Termux Wiki - <https://wiki.termux.com/wiki/Main_Page>
 
 ~~Get it from Google Play store 💯~~
 
@@ -14,16 +22,18 @@ Termux Terminal Emulator for Android
 - ~~Install Termux API  - <https://play.google.com/store/apps/details?id=com.termux.api&hl=en>~~
 - ~~Install Termux Styling - <https://play.google.com/store/apps/details?id=com.termux.styling>~~
 
-- Download Termux from F-Driod - <https://f-droid.org/packages/com.termux/>
-- All Termux Apps - <https://search.f-droid.org/?q=termux&lang=en>
-- Termux Support was dropped from Playstore - <https://github.com/termux/termux-app#installation>
-
 ## My Setup & Packages
 
 - Update Termux Packages
 
 ```bash
 pkg up
+```
+
+- Termux Update Package Mirror Servers - <https://github.com/termux/termux-packages/wiki/Mirrors>
+
+```sh
+termux-change-repo
 ```
 
 - Install cURL
@@ -42,6 +52,18 @@ pkg install git
 
 ```bash
 pkg install wget
+```
+
+- install Zip
+
+```sh
+pkg install zip
+```
+
+- install unZip
+
+```sh
+pkg install unzip
 ```
 
 - Install python3 & python2 (<https://wiki.termux.com/wiki/Python>)
@@ -175,15 +197,15 @@ pip install requests
 - Required packages for Python development
 
 ```bash
-pkg install clang python-dev
+pkg install clang
 ```
 
 ```bash
-pkg install libffi-dev
+pkg install libffi
 ```
 
 ```bash
-pkg install openssl-dev
+pkg install openssl
 ```
 
 - DuckDuckGo for Termux
