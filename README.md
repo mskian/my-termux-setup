@@ -337,6 +337,7 @@ pkg help
 ```
 
 - Enable Extra Keys ( <https://wiki.termux.com/wiki/Touch_Keyboard> ) **Volume UP+Q**
+- Termux Backing up and Restoring - <https://wiki.termux.com/wiki/Backing_up_Termux>
 
 Learn More about Termux Visit - <https://termux.com/>
 
