@@ -226,6 +226,30 @@ pkg install screenfetch
 pkg install w3m
 ```
 
+- install cowsay on termux
+
+```sh
+pkg install cowsay
+```
+
+- install perl
+
+```sh
+pkg install perl
+```
+
+- install Ruby
+
+```sh
+pkg install ruby
+```
+
+- install Rust on Termux
+
+```sh
+pkg install rust
+```
+
 - Customize the Termux Terminal Emulator - <https://amsk.in/2IF0ibt>
 
 - Install `Termux-exec` Read More about this Package - <https://wiki.termux.com/wiki/Termux-exec>
