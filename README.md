@@ -27,7 +27,18 @@ Here is My Termux Terminal Emulator Setup &amp; Packages 🔖
 - Update Termux Packages
 
 ```bash
-pkg up
+pkg update
+```
+
+```bash
+pkg upgrade
+```
+
+- Clean up packages
+
+```bash
+pkg autoclean
+pkg clean
 ```
 
 - Termux Update Package Mirror Servers - <https://github.com/termux/termux-packages/wiki/Mirrors>
