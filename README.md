@@ -293,7 +293,7 @@ rm -rf ~/<filename or folder name>
 pkg install termux-exec
 ```
 
-- Install Termux API (Full info about this - <https://wiki.termux.com/wiki/Termux:API> (Don't Forget to Install Termux API APP from Playstore)
+- Install Termux API (Full info about this - <https://wiki.termux.com/wiki/Termux:API> (Don't Forget to Install Termux API APP from F-Driod)
 
 ```bash
 pkg install termux-api
