@@ -97,6 +97,11 @@ pkg install python
 pkg install nodejs
 ```
 
+```bash
+# LTS Version
+pkg install nodejs-lts
+```
+
 - Install jq (pre Format JSON result)
 
 ```bash
@@ -259,6 +264,24 @@ pkg install ruby
 
 ```sh
 pkg install rust
+```
+
+- install Cloudflared
+
+```sh
+pkg install Cloudflared
+```
+
+- install sqlite
+
+```sh
+pkg install sqlite
+```
+
+- install fakeroot
+
+```sh
+pkg install fakeroot
 ```
 
 - install PRoot
