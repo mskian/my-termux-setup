@@ -284,6 +284,18 @@ pkg install sqlite
 pkg install fakeroot
 ```
 
+- install sshpass
+
+```sh
+pkg install sshpass
+```
+
+- install golang
+
+```sh
+pkg install golang
+```
+
 - install PRoot
 
 ```sh
